@@ -1,2 +1,1 @@
-# my_first_python_project
-my first python project
+Initially, you are given the opportunity to add players, then choose your starting capital and improve the robot through the panel, in order to put the item you need to write its name. As a result, whoever has the best robot wins
